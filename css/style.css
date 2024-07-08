@@ -10,18 +10,18 @@ body {
 }
 
 .header-logo {
-    color: #4d5ae5;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    color:#4d5ae5;
+    font-family:'Raleway', sans-serif;
+    font-weight:700;
     font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height:1.17;
+    letter-spacing:0.03em;
     text-transform: uppercase;
 }
 
 .span-logo {
-    color: #2e2f42;
-    font-family: 'Raleway', sans-serif;
+    color:#2e2f42;
+    font-family:'Raleway', sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -60,7 +60,7 @@ body {
     color: #404bbf;
 }
 
-.section-one {
+.section-first {
     background-color: #2e2f42;
     font-family: roboto;
 }
@@ -74,7 +74,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.button-first_section {
+.button-section_first {
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
@@ -84,8 +84,8 @@ body {
     letter-spacing: 0.04em;
 }
 
-    .button-first_section:hover,
-    .button-first_section:focus {
+    .button-section_first:hover,
+    .button-section_first:focus {
         background-color: #404bbf;
     }
 
