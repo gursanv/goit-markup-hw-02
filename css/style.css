@@ -123,11 +123,8 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    background-color: #FFFFFF;
 }
-
-    .li-section_third .li-class {
-        background-color: #FFFFFF;
-    }
 
 .li-h3-section_third {
     font-weight: 500;
