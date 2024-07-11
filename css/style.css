@@ -3,7 +3,7 @@ body {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
 }
 
 .header-logo {
@@ -79,7 +79,7 @@ body {
     color: white;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
 }
 
     .button-section_first:hover,
@@ -107,10 +107,6 @@ body {
     background-color: #f4f4fd;
 }
 
-    .section_third .three-list {
-        background-color: white;
-    }
-
 .h2-section_third {
     text-align: center;
     color: #2e2f42;
@@ -129,9 +125,9 @@ body {
     color: #2e2f42;
 }
 
-.li-section_third .li-class {
-    background-color: #FFFFFF
-}
+    .li-section_third .li-class {
+        background-color: #FFFFFF;
+    }
 
 .li-h3-section_third {
     font-weight: 500;
